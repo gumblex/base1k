@@ -4,6 +4,8 @@
 import base1k
 import bottle
 
+application = bottle.default_app()
+
 html_template = '''
 <!DOCTYPE html>
 <html><head>
