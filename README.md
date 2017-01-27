@@ -6,4 +6,6 @@ Binary to text codecs using the most common 1024 or 4096 unambiguous Chinese cha
 
 The character frequency list is based on a 6.8 billion-character arbitrary selected Simplified Chinese corpus.
 
+This is based on [xiaq](https://github.com/xiaq/base1k)'s idea.
+
 Usage: `python3 base1k.py [-4k] [-d] < input > output`
