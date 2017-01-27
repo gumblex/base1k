@@ -25,7 +25,7 @@ header, main{text-align:center;}#content{max-width:768px;margin:0 auto;}#content
 <header id="top"><h1>Base1k/4k Demo</h1></header>
 <main id="wrapper">
 <div id="content">
-<form action="/" method="post">
+<form action="./" method="post">
 <textarea rows="30" name="q">{{result}}</textarea>
 <span>
 <input type="radio" id="opta1" name="base" value="1k"{{b1kchk}}>
